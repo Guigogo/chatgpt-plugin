@@ -15,7 +15,7 @@
   "showQRCode": true,
   "cacheUrl": "https://content.alcedogroup.com",
   "cacheEntry": false,
-  "apiKey": "",
+  "apiKey": "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",
   "openAiBaseUrl": "",
   "openAiForceUseReverse": false,
   "drawCD": 30,
