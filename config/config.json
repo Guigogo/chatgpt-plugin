@@ -72,5 +72,6 @@
   "enablePrivateChat": false,
   "groupWhitelist": [],
   "groupBlacklist": [],
+  "serverPort": 3321,
   "ttsRegex": "/匹配规则/匹配模式"
 }
